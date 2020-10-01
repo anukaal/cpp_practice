@@ -1,6 +1,6 @@
 //C++ program
 //LCM of two numbers
-#include<iostream>
+#include <bits/stdc++.h>
 using namespace std;
 int findLCM(int,int);
 //main program
