@@ -6,12 +6,12 @@ using namespace std;
 int main()
 {
 	char val;
-	cout<<"Enter a character: ";
+	cout<<"PLease provide the character"<<endl; // prompt for entering character
 	cin>>val;
 
 //printing the ASCII value of input 
  //through typecasting
 
-cout<<"The ASCII value of "<<val<<" is "<<(int)val;
+cout<<"The ASCII value of "<<val<<" is "<<(int)val; 
 return 0;
 }
