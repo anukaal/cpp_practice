@@ -6,10 +6,8 @@ using namespace std;
 int main()
 {
     int first,second;
-    cout<<"Enter first number: ";
-    cin>>first;
-    cout<<"Enter second number: ";
-    cin>>second;
+    cout<<"Enter the 2 numbers: ";
+    cin>>first>>second;
     if(first==second)
     {
         cout<<"both are equal";
